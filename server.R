@@ -136,8 +136,8 @@ shinyServer(function(input, output, session){
                       Chancellor Merkel notes, there are very real tradeoffs to be made and negative shocks to our
                       livelihoods avoided \u2014 if only we were literate in the art of political economy.')
         
-        link_1 <- ('The full dataset can be found here. 
-                   <https://stats.bis.org/#ppq=LBS_DE_BANKS_IN_ALLRC_XB_C_L;pv=2,9~1,12~/>')
+        link_1 <- ('The full dataset can be found 
+                   <a href="https://stats.bis.org/#ppq=LBS_DE_BANKS_IN_ALLRC_XB_C_L;pv=2,9~1,12~/">here.</a>')
       
         HTML(paste(finding_1, finding_2, finding_3, finding_4, finding_5, link_1, sep = '<br/><br/>'))
     })
