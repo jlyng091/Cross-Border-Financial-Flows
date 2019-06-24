@@ -1,0 +1,13 @@
+name: Cross_border_financial_flows
+title: Cross_border_financial_flows
+username:
+account: colrais
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 995113
+bundleId: 2173765
+url: https://colrais.shinyapps.io/Cross_border_financial_flows/
+when: 1561368673.30786
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: agg_cbf_backup.csv|agg_crossborder.csv|aggregate_claims.csv|aggregate_claims2.csv|bank_flows.csv|bank_flows2.csv|counterparty_claims.R|cp3.csv|flows.csv|gdp.xls|proj_excess.R|stocks.csv|temp.csv
