@@ -1,5 +1,6 @@
 
 ##### Initialisation
+library(data.table)
 library(shiny)
 library(shinydashboard)
 library(googleVis)
