@@ -143,8 +143,8 @@ shinyServer(function(input, output, session){
     })
     
     output$author = renderUI({
-        HTML('The author, Justin L. Ng, is a student of the NYC Data Science Academy, where he is presently engaged 
-              in deep-seated effort to enhance his analytic toolkits. He is a graduate of Rice 
+        HTML('The author, Justin L. Ng, is a student of the NYC Data Science Academy, where he is presently working 
+              to enhance his personal and professional analytic toolkits. He is a graduate of Rice 
               University, where he studied economics and engineering, and of the Collegiate School.')
     })
 })
